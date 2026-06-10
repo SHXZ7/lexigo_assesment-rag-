@@ -1,0 +1,8 @@
+langchain-text-splitters
+sentence-transformers
+langgraph
+pinecone
+python-dotenv
+groq
+fastapi
+uvicorn

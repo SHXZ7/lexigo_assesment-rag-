@@ -1,0 +1,18 @@
+# Local environment variables
+.env
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and system specific generated logs/tasks
+.system_generated/
+.gemini/
+.idea/
+temp_out.txt
+*.log
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
